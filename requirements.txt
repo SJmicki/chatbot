@@ -1,2 +1,8 @@
 streamlit
 openai
+pandas
+numpy
+time
+requests
+re
+bs4
