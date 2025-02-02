@@ -3,5 +3,4 @@ openai
 pandas
 numpy
 requests
-re
-bs4
+beautifulsoup4
